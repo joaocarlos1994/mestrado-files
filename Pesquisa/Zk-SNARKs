@@ -1,0 +1,15 @@
+Zk-SNARKs (Zero-Knowledge Succinct Non-Interactive Argument of Knowledge):
+
+Privacidade e Eficiência: 
+	Zk-SNARKs são provas criptográficas que permitem que uma parte prove posse de uma informação sem revelar a própria informação. Eles são altamente eficientes em termos de tamanho de prova e tempo de verificação, tornando-os adequados para aplicativos onde a privacidade e a eficiência são essenciais.
+	
+Aplicações em Contratos Inteligentes: 
+	Zk-SNARKs têm várias aplicações potenciais em blockchain, incluindo contratos inteligentes privados e escaláveis. Pesquisar como integrar Zk-SNARKs em contratos inteligentes e explorar suas aplicações em diferentes cenários é uma área de pesquisa emocionante que pode levar a avanços significativos na área.
+	
+Desafios e Limitações: 
+	Apesar de suas vantagens, Zk-SNARKs também enfrentam desafios e limitações, como a necessidade de confiança na geração inicial de parâmetros e a complexidade de implementação. Pesquisar maneiras de superar esses desafios e explorar as limitações dos Zk-SNARKs é importante para entender melhor suas capacidades e limitações.
+	
+	
+#PERGUNTA	
+Você poderia me falar em quais indústrias o Zk-SNARKs poderia ser um avanço para uma pequisa de mestrado? Por que a aplicação de Zk-SNARKs seria importante para esse setor? Qual seria o problema que ele estaria ajudando a resolver e como as pessoas e indústrias iriam se benificiar disso?	
+	
